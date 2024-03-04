@@ -5,6 +5,8 @@
 - 🌱 Atualmente, estou estudando JavaScript, HTML e CSS na HashTag Cursos
 - 📔 Faculdade de ADS (1/4)
 ##
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellemosc)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
   <a href="https://github.com/gabriellemosc">Meu Perfil</a>
   <div style="display: inline_block"><br>
