@@ -1,4 +1,4 @@
-### Olá, eu sou o Gabriel Lemos e seja bem-vindo ao meu perfil / Hello, I'm Gabriel Lemos and welcome to my profile 👍
+### Olá, eu sou o Gabriel Lemos e seja bem-vindo ao meu perfil. 👍
 
 ##
 - 🔭 Hoje eu trabalho com ADM e em busca de um estágio para comerçar minha jornada na aréa da computação
