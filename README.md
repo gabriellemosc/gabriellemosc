@@ -1,9 +1,8 @@
-### Olá, eu sou o Gabriel Lemos e seja bem-vindo ao meu perfil. 👍
+### Olá, eu sou o Gabriel Lemos e seja bem-vindo ao meu perfil. 
 
 ##
-- 🔭 Hoje eu trabalho com ADM e em busca de um estágio para comerçar minha jornada na aréa da computação
-- 🌱 Atualmente, estou estudando JavaScript, HTML e CSS na HashTag Cursos
-- 📔 Faculdade de ADS (1/4)
+- 👨‍💻 Programador Back-End
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellemosc&show_icons=true&theme=radical)
 
