@@ -7,6 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellemosc&show_icons=true&theme=radical)
 
 <div>
+  
   <a href="https://github.com/gabriellemosc">Meu Perfil</a>
   <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
