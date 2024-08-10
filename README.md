@@ -17,7 +17,7 @@
         <img align="center" alt="Gabriel-C" height="51" width="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg">
         <img align="center" alt="Gabriel-flask" height="48" width="40" src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png">
         <img align="center" alt="Gabriel-Mysql" height="60" width="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg">
-        <img align="center" alt="Gabriel-Mysql" height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png">
+        <img align="center" alt="Gabriel-Mysql" height="60" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png">
         
         
         
