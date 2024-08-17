@@ -4,7 +4,7 @@
 - 👨‍💻 Programador Back-End
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellemosc&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellemosc&show_icons=true&theme=dracula)
 
 <div>
   
