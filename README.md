@@ -5,6 +5,8 @@
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellemosc&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellemosc)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/> 
@@ -23,8 +25,8 @@
 ### E-mail de Contato:
 
 <a href="mailto:gabriel.lemos1910@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-        
-        
+
+
         
 </div>
 
